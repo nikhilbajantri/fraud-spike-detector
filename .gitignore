@@ -1,0 +1,16 @@
+# Dataset (~98MB) — self-provisions on first run via data_download.py
+data/creditcard.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build prompt (not part of the deliverable)
+BUILD_PROMPT.md
